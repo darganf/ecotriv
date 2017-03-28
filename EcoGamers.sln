@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0803CA37-9F7E-FB04-8CEB-15D6E1DBB78D}") = "EcoGamers", "Assembly-CSharp.csproj", "{A70EB4C1-47E6-728D-BFED-BE3F081D6FF0}"
+EndProject
+Project("{0803CA37-9F7E-FB04-8CEB-15D6E1DBB78D}") = "EcoGamers", "Assembly-CSharp-Editor.csproj", "{AF95B5B0-EE97-CCF6-EC40-1B2120C8003A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70EB4C1-47E6-728D-BFED-BE3F081D6FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70EB4C1-47E6-728D-BFED-BE3F081D6FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70EB4C1-47E6-728D-BFED-BE3F081D6FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70EB4C1-47E6-728D-BFED-BE3F081D6FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF95B5B0-EE97-CCF6-EC40-1B2120C8003A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF95B5B0-EE97-CCF6-EC40-1B2120C8003A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF95B5B0-EE97-CCF6-EC40-1B2120C8003A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF95B5B0-EE97-CCF6-EC40-1B2120C8003A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

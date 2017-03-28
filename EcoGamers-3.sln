@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3713A3A5-6667-3823-9454-F9CA9CCEEFEC}") = "EcoGamers-3", "Assembly-CSharp.csproj", "{14B4B2AA-14FC-A020-13A2-81DE4B76AB77}"
+EndProject
+Project("{3713A3A5-6667-3823-9454-F9CA9CCEEFEC}") = "EcoGamers-3", "Assembly-CSharp-Editor.csproj", "{AB1C5809-0681-DBDA-4F7F-3E142334FDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B4B2AA-14FC-A020-13A2-81DE4B76AB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B4B2AA-14FC-A020-13A2-81DE4B76AB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B4B2AA-14FC-A020-13A2-81DE4B76AB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B4B2AA-14FC-A020-13A2-81DE4B76AB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1C5809-0681-DBDA-4F7F-3E142334FDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1C5809-0681-DBDA-4F7F-3E142334FDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1C5809-0681-DBDA-4F7F-3E142334FDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1C5809-0681-DBDA-4F7F-3E142334FDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
