@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+    <Question>The natural habitat of polar bears is in</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">The Arctic</Answer>
+      <Answer correct="false">Mexico</Answer>
+      <Answer correct="false">The taiga</Answer>
+      <Answer correct="false">Antarctica</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>If the ice on Greenland were to melt completely, how much would sea levels rise?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">22 feet</Answer>
+      <Answer correct="false">22 miles</Answer>
+      <Answer correct="false">1/20th of an inch</Answer>
+      <Answer correct="false">Not at all</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Polar bears need ______ in order to hunt seals.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Sea ice</Answer>
+      <Answer correct="false">An igloo</Answer>
+      <Answer correct="false">Cruise ships close to shore</Answer>
+      <Answer correct="false">Their mother's back</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>When there’s no sea ice, polar bears eat______.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Nothing -- they go hungry</Answer>
+      <Answer correct="false">Moss</Answer>
+      <Answer correct="false">Weasels</Answer>
+      <Answer correct="false">Potatoes</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+
+<record>
+    <Question>The polar bear is a threatened species because of</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Global warming</Answer>
+      <Answer correct="false">Hunting</Answer>
+      <Answer correct="false">Global cooling</Answer>
+      <Answer correct="false">Overfishing</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Compared with the 1980s, Arctic sea ice in summer covers ___ area.  </Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">40% less</Answer>
+      <Answer correct="false">4% less</Answer>
+      <Answer correct="false">40% more</Answer>
+      <Answer correct="false">10% more</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>The melting point of ice is ___ Fahrenheit</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">32</Answer>
+      <Answer correct="false">16</Answer>
+      <Answer correct="false">0</Answer>
+      <Answer correct="false">8</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Retreat of sea ice from the coasts of Canada and Alaska can cause more coastal ____.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Erosion</Answer>
+      <Answer correct="false">Pollution</Answer>
+      <Answer correct="false">Tree growth</Answer>
+      <Answer correct="false">Drought</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Sea ice forms from</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Ocean water freezing</Answer>
+      <Answer correct="false">Icebergs breaking off from glaciers</Answer>
+      <Answer correct="false">Snow getting pressed together</Answer>
+      <Answer correct="false">Giant freezers</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+
+<record>
+    <Question>Polar bears hibernate for ____ of the winter.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">None, polar bears do not hibernate</Answer>
+      <Answer correct="false">6 months</Answer>
+      <Answer correct="false">3 months</Answer>
+      <Answer correct="false">1 month</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Polar bears’ skin is ____.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Black</Answer>
+      <Answer correct="false">White</Answer>
+      <Answer correct="false">Yellow</Answer>
+      <Answer correct="false">Beige</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Polar bears’ fur is _____.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Clear</Answer>
+      <Answer correct="false">White</Answer>
+      <Answer correct="false">Gray</Answer>
+      <Answer correct="false">Beige</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Polar bears’ preferred diet is _____.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Seals</Answer>
+      <Answer correct="false">Tofu</Answer>
+      <Answer correct="false">Fish</Answer>
+      <Answer correct="false">Moose</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>The Arctic is warming _____. </Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Faster than any place on earth</Answer>
+      <Answer correct="false">Equally rapidly as the rest of the planet</Answer>
+      <Answer correct="false">Slower than the rest of the world</Answer>
+      <Answer correct="false">Only in the last year</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which of these is in the Arctic?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">North Pole</Answer>
+      <Answer correct="false">South Pole</Answer>
+      <Answer correct="false">Equator</Answer>
+      <Answer correct="false">Tropic of Capricorn</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Penguins aren’t friends with polar bears because _____.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">They live on opposite sides of the planet</Answer>
+      <Answer correct="false">Polar bears eat penguins</Answer>
+      <Answer correct="false">Penguins eat the fish polar bears like</Answer>
+      <Answer correct="false">They had an argument</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which of these activities would help save the polar bear’s habitat the most?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Driving your car less</Answer>
+      <Answer correct="false">Using less hairspray</Answer>
+      <Answer correct="false">Disposing of batteries properly</Answer>
+      <Answer correct="false">Eating less kale</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Why does using wind and solar power help the polar bears? </Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Fossil fuels increase greenhouse effect</Answer>
+      <Answer correct="false">Fossil fuels hurt the ozone layer</Answer>
+      <Answer correct="false">Fossil fuels cause a garbage patch in the ocean</Answer>
+      <Answer correct="false">Wind turbines destroy hurricanes</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Why does eating less beef help polar bears?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Cows produce lots of methane, a greenhouse gas</Answer>
+      <Answer correct="false">Cows eat polar bears</Answer>
+      <Answer correct="false">Cows eat grass that polar bears eat as well</Answer>
+      <Answer correct="false">Cow feed is grown on land that used to be where polar bears live</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Why does turning off the lights help polar bears? </Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">lots of electricity comes from coal burning, which releases greenhouse gases</Answer>
+      <Answer correct="false"> electric currents can shock polar bears</Answer>
+      <Answer correct="false">magnets are used in power generation which disturb bears</Answer>
+      <Answer correct="false">underwater cables disturb polar bear habitats</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>If we do not reduce greenhouse gas emissions, how many polar bears are expected to go extinct by 2050?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">2/3 of the population</Answer>
+      <Answer correct="false">1/2 of the population</Answer>
+      <Answer correct="false">All polar bears</Answer>
+      <Answer correct="false">1/3 of the population</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+</data-set>

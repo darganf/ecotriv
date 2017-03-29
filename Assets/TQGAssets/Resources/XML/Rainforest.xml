@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+    <Question>The largest rainforest in the world is</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">The Amazon</Answer>
+      <Answer correct="false">The Himalayas</Answer>
+      <Answer correct="false">Transylvania</Answer>
+      <Answer correct="false">The moon</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Which of these countries does not have tropical rainforests?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Morocco</Answer>
+      <Answer correct="false">Brazil</Answer>
+      <Answer correct="false">Indonesia</Answer>
+      <Answer correct="false">Democratic Republic of the Congo</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>What fraction of the plant and animal species on the planet live in rainforests?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Approximately 50%</Answer>
+      <Answer correct="false">Approximately 1%</Answer>
+      <Answer correct="false">Approximately 15%</Answer>
+      <Answer correct="false">Approximately 99%</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Where does the colorful Toco Toucan live?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">South America</Answer>
+      <Answer correct="false">Africa</Answer>
+      <Answer correct="false">Australia</Answer>
+      <Answer correct="false">North America</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>The toucan's long bill is most useful for which of these?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Plucking fruit</Answer>
+      <Answer correct="false">Whistling</Answer>
+      <Answer correct="false">Catching fish</Answer>
+      <Answer correct="false">Protecting themselves</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+
+<record>
+    <Question>Most rainforest burning is for which of the following?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Clearing land for agriculture</Answer>
+      <Answer correct="false">Logging</Answer>
+      <Answer correct="false">Building cities</Answer>
+      <Answer correct="false">Mining</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>A large amount of rainforest destruction in Indonesia is to grow which of these?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Palm oil</Answer>
+      <Answer correct="false">Rice</Answer>
+      <Answer correct="false">Mangos</Answer>
+      <Answer correct="false">Peppers</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Why does global warming threaten the rainforests?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Climate change will affect rainfall patterns</Answer>
+      <Answer correct="false">More ultraviolet light</Answer>
+      <Answer correct="false">Acid rain</Answer>
+      <Answer correct="false">It doesn't threaten the rainforests</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Why are rainforest animals thought to be among the most vulnerable to climate change?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">They are used to very steady temperatures</Answer>
+      <Answer correct="false">They have thick skin</Answer>
+      <Answer correct="false">Can't handle the carbon dioxide</Answer>
+      <Answer correct="false">Camouflage won't work any more</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>What caused the extinction of many harlequin frog species?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Higher temperatures causing disease</Answer>
+      <Answer correct="false">Mosquitos</Answer>
+      <Answer correct="false">A cold snap</Answer>
+      <Answer correct="false">Light pollution</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+
+
+<record>
+    <Question>Why does eating less beef help the rainforests?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Lots of rainforest is cut for grazing or growing cow feed</Answer>
+      <Answer correct="false">Cow poop fertilizes the rainforest</Answer>
+      <Answer correct="false">Toucans like the sound of mooing</Answer>
+      <Answer correct="false">Cows absorb greenhouse gases</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Why does eating less junk food help the rainforests?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Rainforests are cut down to grow palm oil</Answer>
+      <Answer correct="false">Chemicals in junk food are made from trees</Answer>
+      <Answer correct="false">Junk food factories are in the rainforest</Answer>
+      <Answer correct="false">Toucans choke on the wrappers</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>Which of these helps prevent climate change?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Driving less</Answer>
+      <Answer correct="false">Watching more TV</Answer>
+      <Answer correct="false">Yelling really loud</Answer>
+      <Answer correct="false">Doing a rain dance</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>What's thought to be the main reason we'll have to grow more food in the coming decades?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">People eating more meat</Answer>
+      <Answer correct="false">Population growth</Answer>
+      <Answer correct="false">Wasting more food</Answer>
+      <Answer correct="false">People overeating</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+    <Question>What kind of power is best to prevent global warming?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Solar</Answer>
+      <Answer correct="false">Coal</Answer>
+      <Answer correct="false">Natural gas</Answer>
+      <Answer correct="false">Static electricity</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+</data-set>

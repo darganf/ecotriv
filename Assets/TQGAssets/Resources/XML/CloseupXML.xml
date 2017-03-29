@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Cat</Image>
+    <Answers>
+      <Answer correct="true">Cat</Answer>
+      <Answer correct="false">Lion</Answer>
+      <Answer correct="false">Cheetah</Answer>
+    </Answers>
+	<Followup>The cat is a small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Flamingo</Image>
+    <Answers>
+      <Answer correct="true">Flamingo</Answer>
+      <Answer correct="false">Parrot</Answer>
+      <Answer correct="false">Ostrich</Answer>
+    </Answers>
+	<Followup>The flamingo is a tall wading bird with mainly pink or scarlet plumage and long legs and neck. It has a heavy bent bill that is held upside down in the water in order to filter-feed on small organisms.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Horse</Image>
+    <Answers>
+      <Answer correct="true">Horse</Answer>
+      <Answer correct="false">Bull</Answer>
+      <Answer correct="false">Gorilla</Answer>
+    </Answers>
+	<Followup>The horse is a solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Iguana</Image>
+    <Answers>
+      <Answer correct="true">Iguana</Answer>
+      <Answer correct="false">Komodo</Answer>
+      <Answer correct="false">Chameleon</Answer>
+    </Answers>
+	<Followup>The iguana is a large, arboreal, tropical American lizard with a spiny crest along the back and greenish coloration, occasionally kept as a pet.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Macaque</Image>
+    <Answers>
+      <Answer correct="true">Macaque</Answer>
+      <Answer correct="false">Mandrill</Answer>
+      <Answer correct="false">Pygmy</Answer>
+    </Answers>
+	<Followup>The macaque is a medium-sized, chiefly forest-dwelling Old World monkey that has a long face and cheek pouches for holding food.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Owl</Image>
+    <Answers>
+      <Answer correct="true">Owl</Answer>
+      <Answer correct="false">Hawk</Answer>
+      <Answer correct="false">Sparrow</Answer>
+    </Answers>
+	<Followup>The owl is a nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Seal</Image>
+    <Answers>
+      <Answer correct="true">Seal</Answer>
+      <Answer correct="false">Dog</Answer>
+      <Answer correct="false">Cow</Answer>
+    </Answers>
+	<Followup>The seal is a web-footed aquatic mammal that lives chiefly in cold seas and whose body shape, round at the middle and tapered at the ends, is adapted to swift and graceful swimming.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Sheep</Image>
+    <Answers>
+      <Answer correct="true">Sheep</Answer>
+      <Answer correct="false">Dog</Answer>
+      <Answer correct="false">Goat</Answer>
+    </Answers>
+	<Followup>The sheep is a domesticated ruminant animal with a thick woolly coat and (typically only in the male) curving horns. It is kept in flocks for its wool or meat, and is proverbial for its tendency to follow others in the flock.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Squirrel</Image>
+    <Answers>
+      <Answer correct="true">Squirrel</Answer>
+      <Answer correct="false">Rat</Answer>
+      <Answer correct="false">Mouse</Answer>
+    </Answers>
+	<Followup>The squirrel is an agile tree-dwelling rodent with a bushy tail, typically feeding on nuts and seeds.</Followup>
+  </record>
+  <record>
+    <Question>Which animal is this?</Question>
+    <Image>Zebra</Image>
+    <Answers>
+      <Answer correct="true">Zebra</Answer>
+      <Answer correct="false">Donkey</Answer>
+      <Answer correct="false">Horse</Answer>
+    </Answers>
+	<Followup>The zebra is an African wild horse with black-and-white stripes and an erect mane.</Followup>
+  </record>
+</data-set>

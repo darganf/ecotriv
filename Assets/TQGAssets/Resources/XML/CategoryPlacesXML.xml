@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Which one is not a country?</Question>
+    <Answers>
+      <Answer correct="true">Africa</Answer>
+      <Answer correct="false">France</Answer>
+      <Answer correct="false">Japan</Answer>
+      <Answer correct="false">Iceland</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>What is the third planet from the sun?</Question>
+    <Answers>
+      <Answer correct="true">Earth</Answer>
+      <Answer correct="false">Mars</Answer>
+      <Answer correct="false">Jupiter</Answer>
+      <Answer correct="false">Yo mama!</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>What is the tallest building in the world?</Question>
+    <Answers>
+      <Answer correct="true">Burj Khalifa</Answer>
+      <Answer correct="false">Shanghai Tower</Answer>
+      <Answer correct="false">Eiffel Tower</Answer>
+      <Answer correct="false">Wiz Khalifa</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Where was Big Ben built?</Question>
+    <Answers>
+      <Answer correct="true">London</Answer>
+      <Answer correct="false">Istanbul</Answer>
+      <Answer correct="false">Winchester</Answer>
+      <Answer correct="false">Seattle</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Which one is named City of Lights?</Question>
+    <Answers>
+      <Answer correct="true">Paris</Answer>
+      <Answer correct="false">Las Vegas</Answer>
+      <Answer correct="false">Guadalajara</Answer>
+      <Answer correct="false">New York</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+</data-set>

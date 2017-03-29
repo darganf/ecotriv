@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>For how long do Polar bears hibernate in winter?</Question>
+    <Answers>
+      <Answer correct="true">None</Answer>
+      <Answer correct="false">6 months</Answer>
+      <Answer correct="false">3 months</Answer>
+      <Answer correct="false">1 month</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Polar bears’ skin is?</Question>
+    <Answers>
+      <Answer correct="true">Black</Answer>
+      <Answer correct="false">White</Answer>
+      <Answer correct="false">Yellow</Answer>
+      <Answer correct="false">Purple</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Polar bears’ fur is?</Question>
+    <Answers>
+      <Answer correct="true">Clear</Answer>
+      <Answer correct="false">White</Answer>
+      <Answer correct="false">Gray</Answer>
+      <Answer correct="false">Beige</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>When they are kids, polar bears do a lot of?</Question>
+    <Answers>
+      <Answer correct="true">Play fighting</Answer>
+      <Answer correct="false">Playing video games</Answer>
+      <Answer correct="false">Sleeping</Answer>
+      <Answer correct="false">Building in the snow</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The scientific name for polar bears is?</Question>
+    <Answers>
+      <Answer correct="true">Ursus maritimus</Answer>
+      <Answer correct="false">Ursus arcticus</Answer>
+      <Answer correct="false">Ursus polaris</Answer>
+      <Answer correct="false">Polaris bearus</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Polar bears’ skin is that color for?</Question>
+    <Answers>
+      <Answer correct="true">Camoflauge</Answer>
+      <Answer correct="false">Retaining heat</Answer>
+      <Answer correct="false">Snow protection</Answer>
+      <Answer correct="false">Wind resistance</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+      <record>
+    <Question>How thick is the snow on top of Greenland?</Question>
+    <Answers>
+      <Answer correct="true">2 miles</Answer>
+      <Answer correct="false">100 feet</Answer>
+      <Answer correct="false">1000 feet</Answer>
+      <Answer correct="false">1000 yards</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+      <record>
+    <Question>How fast is the Arctic warming?</Question>
+    <Answers>
+      <Answer correct="true">Faster than almost any place on the planet</Answer>
+      <Answer correct="false">Equally rapidly as the rest of the planet</Answer>
+      <Answer correct="false">Slower than the rest of the world</Answer>
+      <Answer correct="false">Only in the last year</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+        <record>
+    <Question>Which of these is in the Arctic?</Question>
+    <Answers>
+      <Answer correct="true">The North Pole</Answer>
+      <Answer correct="false">The South Pole</Answer>
+      <Answer correct="false">The equator</Answer>
+      <Answer correct="false">The Tropic of Capricorn</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+        <record>
+    <Question>Which country does NOT have polar bears?</Question>
+    <Answers>
+      <Answer correct="true">Iceland</Answer>
+      <Answer correct="false">Russia</Answer>
+      <Answer correct="false">United States</Answer>
+      <Answer correct="false">Canada</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+        <record>
+    <Question>During the last Ice Age, mile-thick glaciers covered?</Question>
+    <Answers>
+      <Answer correct="true">Most of Canada and the Great Lakes</Answer>
+      <Answer correct="false">Greenland</Answer>
+      <Answer correct="false">Australia</Answer>
+      <Answer correct="false">The Rocky Mountains</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+          <record>
+    <Question>During the last Ice Age, sea levels were?</Question>
+    <Answers>
+      <Answer correct="true">120 meters lower</Answer>
+      <Answer correct="false">12 meters lower</Answer>
+      <Answer correct="false">1.2 meters lower</Answer>
+      <Answer correct="false">12 centimeters lower</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+          <record>
+    <Question>Penguins aren’t friends with polar bears because?</Question>
+    <Answers>
+      <Answer correct="true">They live on opposite sides of the planet</Answer>
+      <Answer correct="false">Polar bears dont like penguins</Answer>
+      <Answer correct="false">Penguins eat the fish polar bears like</Answer>
+      <Answer correct="false">They had an argument</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+          <record>
+    <Question>Which of these types of ice is melting fastest? ?</Question>
+    <Answers>
+      <Answer correct="true">Mountain glaciers</Answer>
+      <Answer correct="false">Seasonal snow cover</Answer>
+      <Answer correct="false">Greenland ice sheet</Answer>
+      <Answer correct="false">Antarctic ice sheet</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+          <record>
+    <Question>Scientists are concerned that the giant ice sheet in ____ could collapse?</Question>
+    <Answers>
+      <Answer correct="true">West Antarctica</Answer>
+      <Answer correct="false">Iceland</Answer>
+      <Answer correct="false">Finland</Answer>
+      <Answer correct="false">East Antartica</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+            <record>
+    <Question>Glacier National Park in Montana has?</Question>
+    <Answers>
+      <Answer correct="true">Lost nearly all its glaciers</Answer>
+      <Answer correct="false">Grown more glaciers since 1800</Answer>
+      <Answer correct="false">Had more snow recently</Answer>
+      <Answer correct="false">Experienced global cooling</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+            <record>
+    <Question>Which of these activities would help save the polar bear’s habitat the most?</Question>
+    <Answers>
+      <Answer correct="true">Driving your car less</Answer>
+      <Answer correct="false">Using less hairspray</Answer>
+      <Answer correct="false">Disposing of batteries properly</Answer>
+      <Answer correct="false">Eating less kale</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+            <record>
+    <Question>Why does using wind and solar power help the polar bears?</Question>
+    <Answers>
+      <Answer correct="true">Because fossil fuels increase the greenhouse effect</Answer>
+      <Answer correct="false">Fossil fuels hurt the ozone layer</Answer>
+      <Answer correct="false">Fossil fuels cause a garbage patch in the ocean</Answer>
+      <Answer correct="false">Wind turbines destroy hurricanes</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+              <record>
+    <Question>Why does eating less beef help polar bears?</Question>
+    <Answers>
+      <Answer correct="true">Because cows produce lots of methane, a greenhouse gas</Answer>
+      <Answer correct="false">Because cows eat polar bears</Answer>
+      <Answer correct="false">Because cows eat grass that polar bears eat as well</Answer>
+      <Answer correct="false">Because cow feed is grown on land that used to be where polar bears live</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+              <record>
+    <Question>Why does turning off the lights help polar bears?</Question>
+    <Answers>
+      <Answer correct="true">Because lots of electricity comes from coal burning, which releases greenhouse gases</Answer>
+      <Answer correct="false">Because electric currents can shock polar bears</Answer>
+      <Answer correct="false">Because magnets are used in power generation which disturb bears</Answer>
+      <Answer correct="false">Because underwater cables disturb polar bear habitats</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+   <record>
+    <Question>Retreat of sea ice from the coasts of Canada and Alaska can cause more coastal:</Question>
+    <Answers>
+      <Answer correct="true">Erosion</Answer>
+      <Answer correct="false">Pollution</Answer>
+      <Answer correct="false">Tree Growth</Answer>
+      <Answer correct="false">Drought</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Soil that's always frozen is called: </Question>
+    <Answers>
+      <Answer correct="false">Shale</Answer>
+      <Answer correct="true">Permafrost</Answer>
+      <Answer correct="false">Concrete</Answer>
+      <Answer correct="false">Frost</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>The frozen parts of the Earth are together called: </Question>
+    <Answers>
+      <Answer correct="true">The cryosphere</Answer>
+      <Answer correct="false">The cryogenics</Answer>
+      <Answer correct="false">The lithograph</Answer>
+      <Answer correct="false">The frigidaire</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+    <record>
+    <Question>Sea ice forms from:</Question>
+    <Answers>
+      <Answer correct="true">Ocean water freezing</Answer>
+      <Answer correct="false">Icebergs breaking off from glaciers</Answer>
+      <Answer correct="false">Snow getting pressed together</Answer>
+      <Answer correct="false">Giant freezers</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+<Question>Sea ie is typically ______ thick:</Question>
+    <Answers>
+      <Answer correct="true">18 inches to 10 feet</Answer>
+      <Answer correct="false">10 feet to 100 feet</Answer>
+      <Answer correct="false">2-4 inches</Answer>
+      <Answer correct="false">1000 feet</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+<Question>The natural habitat of polar bears is in:</Question>
+    <Answers>
+      <Answer correct="true">The Arctic</Answer>
+      <Answer correct="false">Mexico</Answer>
+      <Answer correct="false">The bottom of the ocean</Answer>
+      <Answer correct="false">The moon</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+<Question>If Greenland were to melt completely, how much would sea levels rise:</Question>
+    <Answers>
+      <Answer correct="true">22 feet</Answer>
+      <Answer correct="false">22 miles</Answer>
+      <Answer correct="false">1/20th of an inch</Answer>
+      <Answer correct="false">Not at all</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>Polar bears swim out from _____ when they go out and search for food.</Question>
+    <Answers>
+      <Answer correct="true">Sea ice</Answer>
+      <Answer correct="false">Cruise ships</Answer>
+      <Answer correct="false">An igloo</Answer>
+      <Answer correct="false">Their mother's back</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>The average weight of an adult male polar bear is:</Question>
+    <Answers>
+      <Answer correct="true">750 - 1500 lbs</Answer>
+      <Answer correct="false">150 - 300 lbs</Answer>
+      <Answer correct="false">2000 - 3000 lbs</Answer>
+      <Answer correct="false">300 - 600 lbs</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>When there's no sea ice connected to the shore, polar bears eat: </Question>
+    <Answers>
+      <Answer correct="true">Nothing - they go hungry</Answer>
+      <Answer correct="false">Moss</Answer>
+      <Answer correct="false">Weasels</Answer>
+      <Answer correct="false">Potatoes</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>The polar bear is a threatened species because of: </Question>
+    <Answers>
+      <Answer correct="true">Global Warming</Answer>
+      <Answer correct="false">Hunting</Answer>
+      <Answer correct="false">Global Cooling</Answer>
+      <Answer correct="false">Overfishing</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>Compared to the 1980's, Arctic sea ice in summer covers ___ area.</Question>
+    <Answers>
+      <Answer correct="true">40% less</Answer>
+      <Answer correct="false">4% less</Answer>
+      <Answer correct="false">10% more</Answer>
+      <Answer correct="false">40% more</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>The process of iceberg creation from glaciers is called:  </Question>
+    <Answers>
+      <Answer correct="true">Calving</Answer>
+      <Answer correct="false">Shattering</Answer>
+      <Answer correct="false">Berging</Answer>
+      <Answer correct="false">Glaciating</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>Cracks in glaciers are called:  </Question>
+    <Answers>
+      <Answer correct="true">Crevasses</Answer>
+      <Answer correct="false">Caverns</Answer>
+      <Answer correct="false">Divides</Answer>
+      <Answer correct="false">Ice canyons</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>In Greenland and Antarctica, ancient climates are often studied using ____ buried deep in the ice.  </Question>
+    <Answers>
+      <Answer correct="true">Bubbles of air</Answer>
+      <Answer correct="false">Skeletons of dinosaurs</Answer>
+      <Answer correct="false">Rock fragments</Answer>
+      <Answer correct="false">Plant material</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>The melting point of water is _____ degrees Fahrenheit.</Question>
+    <Answers>
+      <Answer correct="true">32</Answer>
+      <Answer correct="false">16</Answer>
+      <Answer correct="false">0</Answer>
+      <Answer correct="false">8</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>The melting point of water is _____ degrees Celsius</Question>
+    <Answers>
+      <Answer correct="true">0</Answer>
+      <Answer correct="false">32</Answer>
+      <Answer correct="false">-100</Answer>
+      <Answer correct="false">100</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>At what temperature does ocean water freeze?</Question>
+    <Answers>
+      <Answer correct="true">-1.4 degrees Celsius</Answer>
+      <Answer correct="false">0 degrees Celsius</Answer>
+      <Answer correct="false">1.4 degrees Celsius</Answer>
+      <Answer correct="false">14 degrees Celsius</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>Which is coldest?</Question>
+    <Answers>
+      <Answer correct="true">Greenland</Answer>
+      <Answer correct="false">Iceland</Answer>
+      <Answer correct="false">Sweden</Answer>
+      <Answer correct="false">Hawaii</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+<Question>What is the leading cause of the ice caps melting?</Question>
+    <Answers>
+      <Answer correct="true">Global Warming</Answer>
+      <Answer correct="false">Too many hair dryers</Answer>
+      <Answer correct="false">Space Heaters</Answer>
+      <Answer correct="false">Oil spills in the ocean</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+
+</data-set>

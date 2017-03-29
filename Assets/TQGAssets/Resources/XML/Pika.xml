@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<record>
+    <Question>What animal is most closely related to the pika?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Rabbit</Answer>
+      <Answer correct="false">Mouse</Answer>
+      <Answer correct="false">Rat</Answer>
+      <Answer correct="false">Pikachu</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which of these states do NOT have pika?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Maine</Answer>
+      <Answer correct="false">Colorado</Answer>
+      <Answer correct="false">Alaska</Answer>
+      <Answer correct="false">Oregon</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which most closely resembles the pika's call?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Eeep!</Answer>
+      <Answer correct="false">Sniff!</Answer>
+      <Answer correct="false">Aoooo!</Answer>
+      <Answer correct="false">Mrrraak!</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which of the following would be most likely to contain a pika den?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Rocky piles in the mountains</Answer>
+      <Answer correct="false">Snowy plains</Answer>
+      <Answer correct="false">A volcano crater</Answer>
+      <Answer correct="false">A mountain tree stump</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Pika have to gather ____ during the summer to feed themselves over the winter.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Grass</Answer>
+      <Answer correct="false">Berries</Answer>
+      <Answer correct="false">Bugs</Answer>
+      <Answer correct="false">Pokemon</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+
+<record>
+    <Question>How is the snow line expected to move with climate change?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">It will rise in most locations</Answer>
+      <Answer correct="false">It will fall in most locations</Answer>
+      <Answer correct="false">It will not change</Answer>
+      <Answer correct="false">It will turn to lava</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>How are mountain glaciers changing around the world?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">They are disappearing rapidly in most places</Answer>
+      <Answer correct="false">They are receding in the Arctic but growing in the tropics</Answer>
+      <Answer correct="false">They haven't changed much yet</Answer>
+      <Answer correct="false">They are turning yellow</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Why is the top of a mountain colder than at sea level?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Because air cools as it goes to lower pressure</Answer>
+      <Answer correct="false">Because water evaporates more easily up there</Answer>
+      <Answer correct="false">Because it's closer to the clouds</Answer>
+      <Answer correct="false">Because it snows a lot at high altitude</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>At what temperature can a pika get heat stroke?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">78 F</Answer>
+      <Answer correct="false">298 F</Answer>
+      <Answer correct="false">108 F</Answer>
+      <Answer correct="false">18 F</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>There were 150 glaciers in Glacier National Park in 1900.  How many are left right now?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">25</Answer>
+      <Answer correct="false">100</Answer>
+      <Answer correct="false">125</Answer>
+      <Answer correct="false">50</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+
+
+<record>
+    <Question>Why would planting a tree help pikas?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Trees take in carbon dioxide, a greenhouse gas</Answer>
+      <Answer correct="false">Pikas eat bark</Answer>
+      <Answer correct="false">Pikas like shade from trees</Answer>
+      <Answer correct="false">Pikas make nests in branches</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which type of light bulb helps pikas and other mountain animals the most?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">LEDs, which use the least energy</Answer>
+      <Answer correct="false">Incandescent, which use the least energy</Answer>
+      <Answer correct="false">CFLs, which are brightest</Answer>
+      <Answer correct="false">Halogen bulbs, which use the most energy</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>What type of pollution should we try to reduce the most to save the pika?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Carbon dioxide from fossil fuels</Answer>
+      <Answer correct="false">Chlorofluorocarbons (CFCs)</Answer>
+      <Answer correct="false">Sulfur from dirty coal</Answer>
+      <Answer correct="false">Lead</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which would help most to keep the pika cool in the future?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Driving less and using less electricity</Answer>
+      <Answer correct="false">Wasting water</Answer>
+      <Answer correct="false">Getting more exercise</Answer>
+      <Answer correct="false">Going camping</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+<record>
+    <Question>Which kind of car releases the least greenhouse gases?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Electric car</Answer>
+      <Answer correct="false">Hybrid car</Answer>
+      <Answer correct="false">SUV</Answer>
+      <Answer correct="false">Stretch limo</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>15</Time>
+  </record>
+</data-set>

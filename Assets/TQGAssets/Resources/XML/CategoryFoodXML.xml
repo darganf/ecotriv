@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+	<Question>Which one is an ingredient in Falafel?</Question>
+	<Answers>
+	  <Answer correct="true">Chickpeas</Answer>
+	  <Answer correct="true">Fava Beans</Answer>
+	  <Answer correct="false">Beef</Answer>
+	  <Answer correct="false">Bananas</Answer>
+	</Answers>
+	<Bonus>100</Bonus>
+	<Time>8</Time>
+  </record>
+  <record>
+    <Question>What is the most expensive spice?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">Saffron</Answer>
+      <Answer correct="false">Cinnamon</Answer>
+      <Answer correct="false">Coffee</Answer>
+      <Answer correct="false">Vanilla</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>What are burgers usually made of?</Question>
+    <Answers>
+      <Answer correct="true">Beef</Answer>
+      <Answer correct="false">Chicken</Answer>
+      <Answer correct="false">Mutton</Answer>
+      <Answer correct="false">Venison</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Which one is not a vegetable?</Question>
+    <Answers>
+      <Answer correct="true">Banana</Answer>
+      <Answer correct="false">Cucumber</Answer>
+      <Answer correct="false">Eggplant</Answer>
+      <Answer correct="false">Kale</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>What is Guacamole made of?</Question>
+    <Answers>
+      <Answer correct="true">Avocados</Answer>
+      <Answer correct="false">Peanuts</Answer>
+      <Answer correct="false">Peppers</Answer>
+      <Answer correct="false">Moles</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+</data-set>
